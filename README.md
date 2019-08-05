@@ -1,2 +1,2 @@
 # Tap-music-beatmaker.io
-A simple beatmaker 
+A simple beatmaker using Vanilla Javascript
